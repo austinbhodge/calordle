@@ -1,0 +1,41 @@
+<div class="container mx-auto px-4 py-8">
+  <h1 class="text-3xl font-bold text-center mb-8 text-muted-green-700">Calordle Game</h1>
+
+  <div *ngIf="currentFood" class="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl">
+    <div class="md:flex">
+      <div class="md:flex-shrink-0">
+        <img class="h-48 w-full object-cover md:w-48" [src]="currentFood.imageURI" [alt]="currentFood.name">
+      </div>
+      <div class="p-8">
+        <div class="uppercase tracking-wide text-sm text-muted-green-500 font-semibold">Guess the Calories</div>
+        <p class="mt-2 text-gray-500">How many calories do you think are in this {{ currentFood.name }}?</p>
+        <div class="mt-4">
+          <input
+            type="number"
+            [(ngModel)]="userGuess"
+            class="mt-1 block w-full rounded-md border-gray-300 shadow-sm focus:border-muted-green-300 focus:ring focus:ring-muted-green-200 focus:ring-opacity-50"
+            placeholder="Enter your guess">
+        </div>
+        <button
+          (click)="submitGuess()"
+          class="mt-4 px-4 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-muted-green-600 hover:bg-muted-green-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-muted-green-500"
+        >
+          Submit Guess
+        </button>
+        <div *ngIf="feedback" class="mt-4 text-sm" [ngClass]="{
+          'text-green-600': feedback.includes('Excellent'),
+          'text-yellow-600': feedback.includes('Close'),
+          'text-red-600': feedback.includes('Too')
+        }">
+          {{ feedback }}
+        </div>
+        <button
+          (click)="nextFood()"
+          class="mt-4 px-4 py-2 border border-transparent text-sm font-medium rounded-md text-muted-green-700 bg-muted-green-100 hover:bg-muted-green-200 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-muted-green-500"
+        >
+          Next Food
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
