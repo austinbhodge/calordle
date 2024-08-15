@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "datePublished" : "6/29/2024",
+    "name" : "100g - 100% Grape Juice - Concord Grape - Welch's",
+    "imageURI": "https://images.openfoodfacts.org/images/products/004/180/020/7503/front_en.20.400.jpg",
+    "protein": 0.4,
+    "carb": 15.4,
+    "fat": 0,
+    "calories": 58,
+    "sourceURI": "https://world.openfoodfacts.org/product/0041800207503/100-grape-juice-concord-grape-welch-s"
+  },
+  {
+    "id": 2,
+    "datePublished" : "6/30/2024",
+    "name" : "100g of Nutella",
+    "imageURI": "https://images.openfoodfacts.org/images/products/80177173/front_en.174.400.jpg",
+    "protein": 6.3,
+    "carb": 57.5,
+    "fat": 30.9,
+    "calories": 539,
+    "sourceURI": "https://world.openfoodfacts.org/product/80177173/nutella"
+  },
+  {
+    "id": 3,
+    "datePublished" : "7/1/2024",
+    "name" : "100g of Cool Ranch Doritos",
+    "imageURI": "https://images.openfoodfacts.org/images/products/500/032/874/1581/front_en.30.400.jpg",
+    "protein": 6,
+    "carb": 58.1,
+    "fat": 25.5,
+    "calories": 498,
+    "sourceURI": "https://world.openfoodfacts.org/product/5000328741581/cool-original-doritos"
+  },
+  {
+    "id": 4,
+    "datePublished" : "7/2/2024",
+    "name" : "100g Californian Almond - Alesto",
+    "imageURI": "https://images.openfoodfacts.org/images/products/20724696/front_en.287.400.jpg",
+    "protein": 24.5,
+    "carb": 4.8,
+    "fat": 53.3,
+    "calories": 621,
+    "sourceURI": "https://world.openfoodfacts.org/product/20724696/californian-almond-alesto"
+  },
+  {
+    "id": 5,
+    "datePublished" : "7/3/2024",
+    "name" : "100g of Organic Apple Sauce",
+    "imageURI": "https://images.openfoodfacts.org/images/products/009/661/987/8994/front_en.31.400.jpg",
+    "protein": 0,
+    "carb": 14.4,
+    "fat": 0,
+    "calories": 55,
+    "sourceURI": "https://world.openfoodfacts.org/product/0096619878994/organic-apple-sauce-kirkland"
+  },
+  {
+    "id": 6,
+    "datePublished" : "7/4/2024",
+    "name" : "100g of Nature's own whole wheat bread",
+    "imageURI": "https://images.openfoodfacts.org/images/products/007/225/004/3199/front_en.7.400.jpg",
+    "protein": 13.33,
+    "carb": 44.44,
+    "fat": 0,
+    "calories": 222,
+    "sourceURI": "https://world.openfoodfacts.org/product/0072250043199/nature-s-own-whole-wheat-bread"
+  },
+  {
+    "id": 7,
+    "datePublished" : "7/5/2024",
+    "name" : "100g of Instant oatmeal maple and brown sugar - Quaker Oats",
+    "imageURI": "https://images.openfoodfacts.org/images/products/003/000/056/7289/front_en.17.400.jpg",
+    "protein": 9.3,
+    "carb": 76.7,
+    "fat": 4.65,
+    "calories": 372,
+    "sourceURI": "https://world.openfoodfacts.org/product/0030000567289/instant-oatmeal-maple-and-brown-sugar-quaker-oats"
+  },
+  {
+    "id": 8,
+    "datePublished" : "7/6/2024",
+    "name" : "100g of Large flour tortillas soft taco - La Banderita",
+    "imageURI": "https://images.openfoodfacts.org/images/products/002/733/100/0332/front_en.13.400.jpg",
+    "protein": 3,
+    "carb": 23,
+    "fat": 4,
+    "calories": 140,
+    "sourceURI": "https://world.openfoodfacts.org/product/0027331000332/large-flour-tortillas-soft-taco-la-banderita"
+  },
+  {
+    "id": 9,
+    "datePublished" : "7/7/2024",
+    "name" : "100g of Keto Buns - Oroweat",
+    "imageURI": "https://images.openfoodfacts.org/images/products/007/341/095/7646/front_en.3.400.jpg",
+    "protein": 20.9,
+    "carb": 37.2,
+    "fat": 2.3,
+    "calories": 186,
+    "sourceURI": "https://world.openfoodfacts.org/product/0073410957646/keto-buns-oroweat"
+  }
+]
