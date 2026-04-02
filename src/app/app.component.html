@@ -1,22 +1,12 @@
+<header class="py-6 text-center">
+  <h1 class="text-4xl font-bold tracking-tight text-muted-green-700">Calordle</h1>
+  <p class="mt-1 text-sm text-muted-green-400 tracking-widest uppercase">Guess the calories</p>
+</header>
 
-  <header class="bg-muted-green-600 text-white p-4">
-      <div class="container mx-auto flex justify-between items-center">
-          <h1 class="text-3xl font-bold"><a routerLink="/" class="hover:text-muted-green-200">Calordle</a></h1>
-          <nav>
-              <ul class="flex space-x-4">
-                  <li><a routerLink="/play" class="hover:text-muted-green-200">Play</a></li>
-              </ul>
-          </nav>
-      </div>
-  </header>
+<main class="flex-grow max-w-lg mx-auto w-full px-4 pb-12">
+  <router-outlet />
+</main>
 
-  <main class="container mx-auto mt-8 px-4 flex-grow">
-      <router-outlet />
-  </main>
-
-  <footer class="bg-muted-green-600 text-white py-4 mt-auto">
-      <div class="container mx-auto text-center">
-          <p>&copy; 2024 Calordle. All rights reserved.</p>
-      </div>
-  </footer>
-
+<footer class="py-4 text-center text-xs text-muted-green-300">
+  <p>&copy; 2024 Calordle</p>
+</footer>

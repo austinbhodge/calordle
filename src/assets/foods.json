@@ -1,8 +1,7 @@
 [
   {
     "id": 1,
-    "datePublished" : "6/29/2024",
-    "name" : "100g - 100% Grape Juice - Concord Grape - Welch's",
+    "name": "100g of Grape Juice (Welch's)",
     "imageURI": "https://images.openfoodfacts.org/images/products/004/180/020/7503/front_en.20.400.jpg",
     "protein": 0.4,
     "carb": 15.4,
@@ -12,8 +11,7 @@
   },
   {
     "id": 2,
-    "datePublished" : "6/30/2024",
-    "name" : "100g of Nutella",
+    "name": "100g of Nutella",
     "imageURI": "https://images.openfoodfacts.org/images/products/80177173/front_en.174.400.jpg",
     "protein": 6.3,
     "carb": 57.5,
@@ -23,8 +21,7 @@
   },
   {
     "id": 3,
-    "datePublished" : "7/1/2024",
-    "name" : "100g of Cool Ranch Doritos",
+    "name": "100g of Cool Ranch Doritos",
     "imageURI": "https://images.openfoodfacts.org/images/products/500/032/874/1581/front_en.30.400.jpg",
     "protein": 6,
     "carb": 58.1,
@@ -34,8 +31,7 @@
   },
   {
     "id": 4,
-    "datePublished" : "7/2/2024",
-    "name" : "100g Californian Almond - Alesto",
+    "name": "100g of Californian Almonds (Alesto)",
     "imageURI": "https://images.openfoodfacts.org/images/products/20724696/front_en.287.400.jpg",
     "protein": 24.5,
     "carb": 4.8,
@@ -45,8 +41,7 @@
   },
   {
     "id": 5,
-    "datePublished" : "7/3/2024",
-    "name" : "100g of Organic Apple Sauce",
+    "name": "100g of Organic Apple Sauce",
     "imageURI": "https://images.openfoodfacts.org/images/products/009/661/987/8994/front_en.31.400.jpg",
     "protein": 0,
     "carb": 14.4,
@@ -56,8 +51,7 @@
   },
   {
     "id": 6,
-    "datePublished" : "7/4/2024",
-    "name" : "100g of Nature's own whole wheat bread",
+    "name": "100g of Whole Wheat Bread (Nature's Own)",
     "imageURI": "https://images.openfoodfacts.org/images/products/007/225/004/3199/front_en.7.400.jpg",
     "protein": 13.33,
     "carb": 44.44,
@@ -67,8 +61,7 @@
   },
   {
     "id": 7,
-    "datePublished" : "7/5/2024",
-    "name" : "100g of Instant oatmeal maple and brown sugar - Quaker Oats",
+    "name": "100g of Maple Oatmeal (Quaker)",
     "imageURI": "https://images.openfoodfacts.org/images/products/003/000/056/7289/front_en.17.400.jpg",
     "protein": 9.3,
     "carb": 76.7,
@@ -78,8 +71,7 @@
   },
   {
     "id": 8,
-    "datePublished" : "7/6/2024",
-    "name" : "100g of Large flour tortillas soft taco - La Banderita",
+    "name": "100g of Flour Tortillas (La Banderita)",
     "imageURI": "https://images.openfoodfacts.org/images/products/002/733/100/0332/front_en.13.400.jpg",
     "protein": 3,
     "carb": 23,
@@ -89,13 +81,262 @@
   },
   {
     "id": 9,
-    "datePublished" : "7/7/2024",
-    "name" : "100g of Keto Buns - Oroweat",
+    "name": "100g of Keto Buns (Oroweat)",
     "imageURI": "https://images.openfoodfacts.org/images/products/007/341/095/7646/front_en.3.400.jpg",
     "protein": 20.9,
     "carb": 37.2,
     "fat": 2.3,
     "calories": 186,
     "sourceURI": "https://world.openfoodfacts.org/product/0073410957646/keto-buns-oroweat"
+  },
+  {
+    "id": 10,
+    "name": "100g of Banana",
+    "imageURI": "https://images.openfoodfacts.org/images/products/020/488/300/0789/front_en.8.400.jpg",
+    "protein": 1.1,
+    "carb": 22.8,
+    "fat": 0.3,
+    "calories": 89,
+    "sourceURI": "https://world.openfoodfacts.org/product/0204883000789/bananas"
+  },
+  {
+    "id": 11,
+    "name": "100g of Grilled Chicken Breast",
+    "imageURI": "https://images.openfoodfacts.org/images/products/002/600/000/8194/front_en.6.400.jpg",
+    "protein": 31.0,
+    "carb": 0.0,
+    "fat": 3.6,
+    "calories": 165,
+    "sourceURI": "https://world.openfoodfacts.org/product/0026000081943/grilled-chicken-breast"
+  },
+  {
+    "id": 12,
+    "name": "100g of Whole Milk",
+    "imageURI": "https://images.openfoodfacts.org/images/products/001/111/408/8435/front_en.10.400.jpg",
+    "protein": 3.2,
+    "carb": 4.8,
+    "fat": 3.3,
+    "calories": 61,
+    "sourceURI": "https://world.openfoodfacts.org/product/0011114088435/whole-milk"
+  },
+  {
+    "id": 13,
+    "name": "100g of Cheddar Cheese",
+    "imageURI": "https://images.openfoodfacts.org/images/products/002/100/006/2708/front_en.8.400.jpg",
+    "protein": 24.9,
+    "carb": 1.3,
+    "fat": 33.1,
+    "calories": 403,
+    "sourceURI": "https://world.openfoodfacts.org/product/0021000062708/cheddar-cheese"
+  },
+  {
+    "id": 14,
+    "name": "100g of White Rice (cooked)",
+    "imageURI": "https://images.openfoodfacts.org/images/products/001/750/017/1309/front_en.5.400.jpg",
+    "protein": 2.7,
+    "carb": 28.2,
+    "fat": 0.3,
+    "calories": 130,
+    "sourceURI": "https://world.openfoodfacts.org/product/0017500171309/white-rice"
+  },
+  {
+    "id": 15,
+    "name": "100g of Avocado",
+    "imageURI": "https://images.openfoodfacts.org/images/products/000/000/000/4046/front_en.6.400.jpg",
+    "protein": 2.0,
+    "carb": 8.5,
+    "fat": 14.7,
+    "calories": 160,
+    "sourceURI": "https://world.openfoodfacts.org/product/0000000004046/avocado"
+  },
+  {
+    "id": 16,
+    "name": "100g of Boiled Eggs",
+    "imageURI": "https://images.openfoodfacts.org/images/products/406/048/807/3554/front_en.11.400.jpg",
+    "protein": 12.6,
+    "carb": 1.1,
+    "fat": 10.6,
+    "calories": 155,
+    "sourceURI": "https://world.openfoodfacts.org/product/4060488073554/eggs"
+  },
+  {
+    "id": 17,
+    "name": "100g of Coca-Cola",
+    "imageURI": "https://images.openfoodfacts.org/images/products/544/900/000/0996/front_en.626.400.jpg",
+    "protein": 0.0,
+    "carb": 10.6,
+    "fat": 0.0,
+    "calories": 42,
+    "sourceURI": "https://world.openfoodfacts.org/product/5449000000996/coca-cola"
+  },
+  {
+    "id": 18,
+    "name": "100g of Peanut Butter (Jif)",
+    "imageURI": "https://images.openfoodfacts.org/images/products/005/150/024/1003/front_en.56.400.jpg",
+    "protein": 25.1,
+    "carb": 19.6,
+    "fat": 50.4,
+    "calories": 588,
+    "sourceURI": "https://world.openfoodfacts.org/product/0051500241003/peanut-butter-jif"
+  },
+  {
+    "id": 19,
+    "name": "100g of Greek Yogurt (Fage)",
+    "imageURI": "https://images.openfoodfacts.org/images/products/068/913/300/1126/front_en.18.400.jpg",
+    "protein": 10.2,
+    "carb": 3.6,
+    "fat": 0.4,
+    "calories": 59,
+    "sourceURI": "https://world.openfoodfacts.org/product/0689133001126/total-0-greek-yogurt-fage"
+  },
+  {
+    "id": 20,
+    "name": "100g of Baked Salmon",
+    "imageURI": "https://images.openfoodfacts.org/images/products/007/584/020/0044/front_en.8.400.jpg",
+    "protein": 20.4,
+    "carb": 0.0,
+    "fat": 13.4,
+    "calories": 208,
+    "sourceURI": "https://world.openfoodfacts.org/product/0075840200044/atlantic-salmon"
+  },
+  {
+    "id": 21,
+    "name": "100g of Broccoli",
+    "imageURI": "https://images.openfoodfacts.org/images/products/000/000/000/4060/front_en.4.400.jpg",
+    "protein": 2.8,
+    "carb": 6.6,
+    "fat": 0.4,
+    "calories": 34,
+    "sourceURI": "https://world.openfoodfacts.org/product/0000000004060/broccoli"
+  },
+  {
+    "id": 22,
+    "name": "100g of Extra Virgin Olive Oil",
+    "imageURI": "https://images.openfoodfacts.org/images/products/807/665/309/6577/front_en.35.400.jpg",
+    "protein": 0.0,
+    "carb": 0.0,
+    "fat": 100.0,
+    "calories": 884,
+    "sourceURI": "https://world.openfoodfacts.org/product/8076653096577/extra-virgin-olive-oil"
+  },
+  {
+    "id": 23,
+    "name": "100g of Honey",
+    "imageURI": "https://images.openfoodfacts.org/images/products/001/200/008/0225/front_en.11.400.jpg",
+    "protein": 0.3,
+    "carb": 82.4,
+    "fat": 0.0,
+    "calories": 304,
+    "sourceURI": "https://world.openfoodfacts.org/product/0012000080225/honey"
+  },
+  {
+    "id": 24,
+    "name": "100g of French Fries (McDonald's)",
+    "imageURI": "https://images.openfoodfacts.org/images/products/210/137/082/6026/front_en.5.400.jpg",
+    "protein": 3.4,
+    "carb": 41.4,
+    "fat": 14.9,
+    "calories": 312,
+    "sourceURI": "https://world.openfoodfacts.org/product/2101370826026/french-fries-mcdonald-s"
+  },
+  {
+    "id": 25,
+    "name": "100g of Oreo Cookies",
+    "imageURI": "https://images.openfoodfacts.org/images/products/762/221/044/858/front_en.73.400.jpg",
+    "protein": 4.9,
+    "carb": 69.6,
+    "fat": 20.1,
+    "calories": 482,
+    "sourceURI": "https://world.openfoodfacts.org/product/7622210448583/oreo"
+  },
+  {
+    "id": 26,
+    "name": "100g of Sirloin Steak",
+    "imageURI": "https://images.openfoodfacts.org/images/products/002/113/602/3109/front_en.5.400.jpg",
+    "protein": 26.1,
+    "carb": 0.0,
+    "fat": 10.6,
+    "calories": 206,
+    "sourceURI": "https://world.openfoodfacts.org/product/0021136023109/sirloin-steak"
+  },
+  {
+    "id": 27,
+    "name": "100g of Baked Sweet Potato",
+    "imageURI": "https://images.openfoodfacts.org/images/products/000/000/000/4091/front_en.7.400.jpg",
+    "protein": 2.0,
+    "carb": 20.7,
+    "fat": 0.1,
+    "calories": 90,
+    "sourceURI": "https://world.openfoodfacts.org/product/0000000004091/sweet-potato"
+  },
+  {
+    "id": 28,
+    "name": "100g of Strawberries",
+    "imageURI": "https://images.openfoodfacts.org/images/products/000/000/000/4062/front_en.6.400.jpg",
+    "protein": 0.7,
+    "carb": 7.7,
+    "fat": 0.3,
+    "calories": 32,
+    "sourceURI": "https://world.openfoodfacts.org/product/0000000004062/strawberries"
+  },
+  {
+    "id": 29,
+    "name": "100g of Dark Chocolate 70% (Lindt)",
+    "imageURI": "https://images.openfoodfacts.org/images/products/300/574/280/0217/front_en.101.400.jpg",
+    "protein": 7.8,
+    "carb": 45.9,
+    "fat": 42.6,
+    "calories": 598,
+    "sourceURI": "https://world.openfoodfacts.org/product/3005742800217/excellence-70-cacao-lindt"
+  },
+  {
+    "id": 30,
+    "name": "100g of Cooked Bacon",
+    "imageURI": "https://images.openfoodfacts.org/images/products/003/800/004/3685/front_en.10.400.jpg",
+    "protein": 37.0,
+    "carb": 1.4,
+    "fat": 42.0,
+    "calories": 541,
+    "sourceURI": "https://world.openfoodfacts.org/product/0038000043685/bacon"
+  },
+  {
+    "id": 31,
+    "name": "100g of Orange Juice (Tropicana)",
+    "imageURI": "https://images.openfoodfacts.org/images/products/004/850/003/2280/front_en.63.400.jpg",
+    "protein": 0.7,
+    "carb": 10.4,
+    "fat": 0.2,
+    "calories": 45,
+    "sourceURI": "https://world.openfoodfacts.org/product/0048500032280/pure-premium-orange-juice-tropicana"
+  },
+  {
+    "id": 32,
+    "name": "100g of Spaghetti (cooked)",
+    "imageURI": "https://images.openfoodfacts.org/images/products/807/666/808/0125/front_en.17.400.jpg",
+    "protein": 5.8,
+    "carb": 30.9,
+    "fat": 0.9,
+    "calories": 158,
+    "sourceURI": "https://world.openfoodfacts.org/product/8076668080125/spaghetti-barilla"
+  },
+  {
+    "id": 33,
+    "name": "100g of Potato Chips (Lay's Classic)",
+    "imageURI": "https://images.openfoodfacts.org/images/products/002/840/005/7304/front_en.92.400.jpg",
+    "protein": 7.0,
+    "carb": 53.0,
+    "fat": 33.0,
+    "calories": 536,
+    "sourceURI": "https://world.openfoodfacts.org/product/0028400057304/classic-potato-chips-lay-s"
+  },
+  {
+    "id": 34,
+    "name": "100g of Firm Tofu",
+    "imageURI": "https://images.openfoodfacts.org/images/products/002/522/700/0000/front_en.6.400.jpg",
+    "protein": 8.1,
+    "carb": 1.9,
+    "fat": 4.8,
+    "calories": 76,
+    "sourceURI": "https://world.openfoodfacts.org/product/0025227000000/tofu"
   }
 ]
